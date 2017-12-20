@@ -1,2 +1,2 @@
-# TicTacToe game, Visual Studio CLR, C++
 
+TicTacToe game, Visual Studio CLR, C++
