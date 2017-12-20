@@ -1,2 +1,2 @@
-# TicTacToe-game-VS-CLR-C-
-#Simple game
+# TicTacToe game, Visual Studio CLR, C++
+
